@@ -26,7 +26,7 @@ Facilitar la detección de disposiciones, resoluciones, leyes, decretos y otra n
 2. Subir el archivo PDF del Boletín del día.
 3. Subir el archivo de términos clave (o editar la lista manualmente en el código).
 4. Ejecutar las celdas del notebook.
-5. Descargar el archivo de resultados (`resultados_busqueda.xlsx`).
+5. Descargar el archivo de resultados (`resultados_busqueda_BOCABA.xlsx`).
 
 ## Licencia
 
