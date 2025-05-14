@@ -29,5 +29,6 @@ Facilitar la detección de disposiciones, resoluciones, leyes, decretos y otra n
 5. Descargar el archivo de resultados (`resultados_busqueda.xlsx`).
 
 
+
 **Autor:** Juan Draghi — Biblioteca del Consejo Profesional de Arquitectura y Urbanismo  
 **Contacto:** juan.draghi@gmail.com
