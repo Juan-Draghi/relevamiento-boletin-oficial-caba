@@ -28,6 +28,10 @@ Facilitar la detección de disposiciones, resoluciones, leyes, decretos y otra n
 4. Ejecutar las celdas del notebook.
 5. Descargar el archivo de resultados (`resultados_busqueda.xlsx`).
 
+## Licencia
+
+Este proyecto está disponible bajo la [Licencia MIT](LICENSE).  
+Se permite su uso, copia, modificación y redistribución con o sin fines comerciales, siempre que se mantenga la atribución correspondiente.
 
 
 **Autor:** Juan Draghi — Biblioteca del Consejo Profesional de Arquitectura y Urbanismo  
