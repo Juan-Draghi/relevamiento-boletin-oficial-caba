@@ -17,16 +17,14 @@ Facilitar la detección de disposiciones, resoluciones, leyes, decretos y otra n
 ## Requisitos
 
 - Cuenta de Google para utilizar Google Colab.
-- Archivo PDF del Boletín Oficial descargado localmente.
+- Vincular con la carpeta donde está alojado el archivo PDF del Boletín Oficial.
 - (Opcional) Archivo `.xlsx` con palabras clave personalizadas.
 
 ## Instrucciones de uso
 
 1. Abrir el notebook en Google Colab.
-2. Subir el archivo PDF del Boletín del día.
-3. Subir el archivo de términos clave (o editar la lista manualmente en el código).
-4. Ejecutar las celdas del notebook.
-5. Descargar el archivo de resultados (`resultados_busqueda_BOCABA.xlsx`).
+2. Ejecutar las celdas del notebook.
+3. Descargar el archivo de resultados (`resultados_busqueda_BOCABA.xlsx`).
 
 ## Licencia
 
