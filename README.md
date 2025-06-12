@@ -10,21 +10,16 @@ Facilitar la detección de disposiciones, resoluciones, leyes, decretos y otra n
 
 - Lectura de texto desde archivos PDF del Boletín Oficial.
 - Búsqueda de términos exactos y expresiones regulares.
-- Posibilidad de definir palabras clave desde una lista o un archivo Excel.
+- Posibilidad de definir palabras clave desde una lista.
 - Exportación de resultados a un archivo `.xlsx` con los términos encontrados y su contexto.
 - Interfaz ejecutable desde Google Colab, sin necesidad de instalación local.
 
-## Requisitos
-
-- Cuenta de Google para utilizar Google Colab.
-- Vincular con la carpeta donde está alojado el archivo PDF del Boletín Oficial.
-- (Opcional) Archivo `.xlsx` con palabras clave personalizadas.
-
 ## Instrucciones de uso
 
-1. Abrir el notebook en Google Colab.
+1. Cargar el archivo del Boletín Oficial en la carpeta predeterminada.
 2. Ejecutar las celdas del notebook.
 3. Descargar el archivo de resultados (`resultados_busqueda_BOCABA.xlsx`).
+4. Para actualizar los términos de búsqueda, modificar la lista keywords.
 
 ## Licencia
 
